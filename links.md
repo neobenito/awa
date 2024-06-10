@@ -1,3 +1,4 @@
+# cette liste est amenée à évoluer au fur et a meusure
 # demonstrations process CA Youtube (avec et sans comentary):
 
 visionnées (veille comprise):
@@ -28,10 +29,10 @@ queue (non visionnées):
 - https://www.youtube.com/watch?v=21mPduQsm1g&t=879s
 - https://www.youtube.com/watch?v=9gctSQIWjfQ
 
-autres (entre IA générative et artiste):
+autres (entre IA générative et artiste...):
 
 - https://www.youtube.com/watch?v=tjSxFAGP9Ss (! négativiste)
 - https://www.youtube.com/watch?v=-MUEXGaxFDA&t=4059s (nuancé)
 - https://www.youtube.com/watch?v=lR5O9xeGXgA&t=15s (nuancé)
 - https://www.youtube.com/watch?v=ha4QMMi5xWs (nuancé)
-- https://www.youtube.com/watch?v=bKLE742LjqE (haha..)
+- https://www.youtube.com/watch?v=bKLE742LjqE ()
