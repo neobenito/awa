@@ -24,7 +24,8 @@ repérées (non visionnées):
 - https://www.youtube.com/watch?v=RnA7Nk0jkFM&t=1474s
 - https://www.youtube.com/watch?v=qInhAY3gQpc
 - https://www.youtube.com/watch?v=q05Ikl-uUB8
-- https://www.youtube.com/watch?v=8YA2-_A56dw*
+- https://www.youtube.com/watch?v=8YA2-_A56dw
+- https://www.youtube.com/watch?v=21mPduQsm1g&t=879s
 
 autres:
 
