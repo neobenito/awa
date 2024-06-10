@@ -28,7 +28,7 @@ repérées (non visionnées):
 - https://www.youtube.com/watch?v=21mPduQsm1g&t=879s
 - https://www.youtube.com/watch?v=9gctSQIWjfQ
 
-autres:
+autres (entre IA générative et artiste):
 
 - https://www.youtube.com/watch?v=tjSxFAGP9Ss
 - https://www.youtube.com/watch?v=-MUEXGaxFDA&t=4059s
