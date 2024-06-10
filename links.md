@@ -1,4 +1,4 @@
-# cette liste est amenée à évoluer au fur et a meusure
+cette liste est amenée à évoluer
 # demonstrations process CA Youtube (avec et sans comentary):
 
 visionnées (veille comprise):
