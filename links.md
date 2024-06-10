@@ -30,7 +30,7 @@ queue (non visionnées):
 
 autres (entre IA générative et artiste):
 
-- https://www.youtube.com/watch?v=tjSxFAGP9Ss
+- https://www.youtube.com/watch?v=tjSxFAGP9Ss (contre)
 - https://www.youtube.com/watch?v=-MUEXGaxFDA&t=4059s
 - https://www.youtube.com/watch?v=lR5O9xeGXgA&t=15s
 - https://www.youtube.com/watch?v=ha4QMMi5xWs
