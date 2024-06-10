@@ -34,7 +34,7 @@ queue (non visionnées):
 exclu (entre IA générative et artiste...):
 
 - https://www.youtube.com/watch?v=tjSxFAGP9Ss (! négativiste)
-- https://www.youtube.com/watch?v=-MUEXGaxFDA&t=4059s (cerner l'"IA")
+- https://www.youtube.com/watch?v=-MUEXGaxFDA&t=4059s (deconstruction de l'"IA")
 - https://www.youtube.com/watch?v=lR5O9xeGXgA&t=15s 
 - https://www.youtube.com/watch?v=ha4QMMi5xWs 
 - https://www.youtube.com/watch?v=bKLE742LjqE
