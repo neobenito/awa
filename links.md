@@ -14,7 +14,7 @@ visionnées (veille comprise):
 - https://www.youtube.com/watch?v=sT2OY2jy_Xc
 - https://www.youtube.com/watch?v=PHufiCWVoVo
 
-repérées (non visionnées):
+queue (non visionnées):
 
 - https://www.youtube.com/watch?v=fiHePwl3FsY
 - https://www.youtube.com/watch?v=33KrPbStjcc
