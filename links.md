@@ -29,7 +29,9 @@ queue (non visionnées):
 - https://www.youtube.com/watch?v=21mPduQsm1g&t=879s
 - https://www.youtube.com/watch?v=9gctSQIWjfQ
 
-autres (entre IA générative et artiste...):
+----------
+
+exclu (entre IA générative et artiste...):
 
 - https://www.youtube.com/watch?v=tjSxFAGP9Ss (! négativiste)
 - https://www.youtube.com/watch?v=-MUEXGaxFDA&t=4059s (cerner l'"IA")
