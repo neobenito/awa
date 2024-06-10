@@ -38,3 +38,5 @@ exclu (entre IA générative et artiste...):
 - https://www.youtube.com/watch?v=lR5O9xeGXgA&t=15s 
 - https://www.youtube.com/watch?v=ha4QMMi5xWs 
 - https://www.youtube.com/watch?v=bKLE742LjqE
+
+- https://www.youtube.com/watch?v=F1w6qMU7lNo (pres 3D coat, à voir..!)
