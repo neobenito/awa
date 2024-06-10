@@ -26,6 +26,9 @@ repérées (non visionnées):
 - https://www.youtube.com/watch?v=q05Ikl-uUB8
 - https://www.youtube.com/watch?v=8YA2-_A56dw*
 
-rien avoir mais quand même:
+autres:
 
 - https://www.youtube.com/watch?v=tjSxFAGP9Ss
+- https://www.youtube.com/watch?v=-MUEXGaxFDA&t=4059s
+- https://www.youtube.com/watch?v=lR5O9xeGXgA&t=15s
+- https://www.youtube.com/watch?v=ha4QMMi5xWs
