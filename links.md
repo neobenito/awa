@@ -18,4 +18,14 @@ repérées (non visionnées):
 
 - https://www.youtube.com/watch?v=fiHePwl3FsY
 - https://www.youtube.com/watch?v=33KrPbStjcc
--https://www.youtube.com/watch?v=QdgyKoTSf4U (workflow zbrush)
+- https://www.youtube.com/watch?v=QdgyKoTSf4U (workflow zbrush)
+- https://www.youtube.com/watch?v=6mMAxN48rF4
+- https://www.youtube.com/watch?v=7P-8z9XcCpA
+- https://www.youtube.com/watch?v=RnA7Nk0jkFM&t=1474s
+- https://www.youtube.com/watch?v=qInhAY3gQpc
+- https://www.youtube.com/watch?v=q05Ikl-uUB8
+- https://www.youtube.com/watch?v=8YA2-_A56dw*
+
+rien avoir mais quand même:
+
+- https://www.youtube.com/watch?v=tjSxFAGP9Ss
