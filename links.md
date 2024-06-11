@@ -15,6 +15,7 @@ visionnées (veille comprise):
 - https://www.youtube.com/watch?v=sT2OY2jy_Xc
 - https://www.youtube.com/watch?v=PHufiCWVoVo
 - https://www.youtube.com/watch?v=e8OPmP75HJU&list=PLVbXgFokKXshtSo_fbNSEE3MKhrGVNp4J (playlist tutos jordan grimmer)
+- https://www.youtube.com/watch?v=XxaVFetBivs&t=29s (Autobuilding tutorial)
 
 queue (non visionnées):
 
@@ -34,7 +35,7 @@ queue (non visionnées):
 
 Blender:
 
-- https://www.youtube.com/watch?v=5Ou4zNJdZWE (presentation 4.2)
+
 
 
 -----
@@ -46,7 +47,7 @@ autres:
 -----
 -----
 
-(mise au point sur l'IA générative par rapport à l'artiste):
+(replacer l'IA générative par rapport à l'artiste...):
 
 - https://www.youtube.com/watch?v=tjSxFAGP9Ss (! négativiste)
 - https://www.youtube.com/watch?v=-MUEXGaxFDA&t=4059s (deconstruction de "l'IA")
