@@ -16,6 +16,7 @@ visionnées (veille comprise):
 - https://www.youtube.com/watch?v=PHufiCWVoVo
 - https://www.youtube.com/watch?v=e8OPmP75HJU&list=PLVbXgFokKXshtSo_fbNSEE3MKhrGVNp4J (playlist tutos jordan grimmer)
 
+
 queue (non visionnées):
 
 - https://www.youtube.com/watch?v=fiHePwl3FsY
@@ -35,6 +36,7 @@ queue (non visionnées):
 Blender:
 
 - https://www.youtube.com/watch?v=5Ou4zNJdZWE (presentation 4.2)
+- https://www.youtube.com/watch?v=XxaVFetBivs&t=29s (Autobuilding tutorial)
 
 
 -----
