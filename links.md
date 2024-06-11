@@ -14,6 +14,7 @@ visionnées (veille comprise):
 - https://www.youtube.com/watch?v=im2FD9iUr_M
 - https://www.youtube.com/watch?v=sT2OY2jy_Xc
 - https://www.youtube.com/watch?v=PHufiCWVoVo
+- https://www.youtube.com/watch?v=e8OPmP75HJU&list=PLVbXgFokKXshtSo_fbNSEE3MKhrGVNp4J (playlist tutos jordan grimmer)
 
 queue (non visionnées):
 
