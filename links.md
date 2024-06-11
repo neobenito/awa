@@ -34,7 +34,7 @@ queue (non visionnées):
 
 Blender:
 
-
+- https://www.youtube.com/watch?v=5Ou4zNJdZWE (presentation 4.2)
 
 
 -----
@@ -46,7 +46,7 @@ autres:
 -----
 -----
 
-(replacer l'IA générative par rapport à l'artiste...):
+(situer l'IA générative par rapport à l'humain):
 
 - https://www.youtube.com/watch?v=tjSxFAGP9Ss (! négativiste)
 - https://www.youtube.com/watch?v=-MUEXGaxFDA&t=4059s (deconstruction de "l'IA")
